@@ -59,6 +59,7 @@ Write the Raspbian .img you extracted from the ZIP file above to the SD card usi
 
 * Insert the included USB WiFI into the RPi2.
 * Next, insert the Micro SD Card into the RPi2.
+* PLEASE NOTE: If your WiFi SSD contains special characters (like underscores "_") then your RPI2 may not be able to connect! Change your WiFi id to something without special characters
 
 ### Path 1: Keyboard, Mouse, and HDMI monitor/TV
 
